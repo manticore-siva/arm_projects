@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////
 //                                                                         //
 //   Authore Name : Sivaprakasam.v                                         //
-//   Title : ARM Systic Delay LED Blinking used to RCC_PLL                 //
-//   Date  : 28/02/2023                                                    //
+//   Title : RGB_LED_program_by_use_timer11                                //
+//   Date  : 22/03/2023                                                    //
 //                                                                         // 
 /////////////////////////////////////////////////////////////////////////////
 
